@@ -19,25 +19,51 @@ To me this is interesting because its a cross-section of Computer Science, Lingu
 
 Overall I want to see what is being done in the world of law to deal with cybercrime.
 
+Descriptive study.
+
+
+### Day 02 | 10/17/2023 - Tuesday
+
+Introduction writing day.
+
+Describe and summarize points I want to make.
+
+- Analysis
+- Make points and thesis
+- Start of abstract
+- What am I doing
+  - What to learn
+  - How I want to present to others
+  - Types of Research
+
+Start answering the questions I have. Summarize articles.
+
+
+
+
 #### Questions I am asking myself
 
 - What is hacking? Or a hack?
-- What are damages done by cybercrime?*
 - How is jargon used? Why must the wording be precise?
-- Why is cryptography important?*
 - Perception of hackers? Media? Reality? (Sideline but still there)
 - What words scream cybercrime?
 - Do ransomeware notes/emails exist? Do we analyze them the same as a regular ransome note?
 - How does the industry view cybercrime vs the public?
-- Are lack of laws and education the reason why crime is so prevelant online? (save for forensic linguistics)
-- Is it more profitable to do cybercrime?*
-- Why do people commit these crimes? Do they happen all the time?*
 - Is there a name for people who fall for cybercrime attacks?
   - Pejorative terms?
 - Are there "missions" for hacker groups? Malicious vs white hat groups?
   - maybe look at hate groups too for discrimitary patterns
 - How someone outside of tech can show me new perspectives?
 - Why is it ethical, what words.
+- Malicious Intent
+- AI core values
+- 
+
+- Why do people commit these crimes? Do they happen all the time?*
+- Is it more profitable to do cybercrime?*
+- Why is cryptography important?*
+- What are damages done by cybercrime?*
+- Are lack of laws and education the reason why crime is so prevelant online? (save for forensic linguistics)*
 
 *shelved
 
@@ -50,6 +76,8 @@ Looking to expand my todo list involving research.
 Lit Review. Find out what others have written.
 
 [Ling Stuff](https://guides.library.unt.edu/linguistics/getting-oriented)
+[Elicit Language](https://blogs.thesteppingstonesgroup.com/10-ways-to-elicit-language-during-wordless-videos)
+
 
 - Answer Questions
 - Lit Review
@@ -71,6 +99,11 @@ Lit Review. Find out what others have written.
 - Pragmatics
 - named after someone
 - word formation
+- rhetoric
+- variation and dialect
+- authorship
+- commonality
+
 
 
 #### Terms/Lexicon
@@ -109,6 +142,12 @@ Lit Review. Find out what others have written.
 
 - World Cloud!!
 
+- Commentary & Analysis
+
+- 
+
+- 
+
 ***
 
 [Jump to Top](#top-of-doc)
@@ -119,12 +158,39 @@ Lit Review. Find out what others have written.
 
 - https://courses.lumenlearning.com/olemiss-writ250/chapter/developing-a-research-focus/
 
-
-
 > Title – Cybercrime: History and Terminology
 
-> Focus –  
+**Focus**
 My research will attempt to answer questions concerning crime in the modern era, specifically cyberspace. By finding evidence dealing with cybercrime, we can attempt to shine a light on the types of terminology, history, and legal precedents that this type of crime will have.
 
-> Description –  
+**Description** –  
 Terminology, history, and legal precedents are the highlights of this proposal. I will answer questions about how, when, and why cyberspace must be looked at for research within linguistics. Some questions will be answered: How does the industry view this versus public opinion? Is it more profitable for the individual to do cybercrime? Are there “missions” for hacker groups? Aside from this, a historical view of the Internet and its activities will be provided.
+
+transcribe
+
+ring
+
+ring
+
+911 this is carla
+
+officer 
+
+can i get emt
+
+im at. im at
+
+im at my apartment
+
+where are you
+
+im at apartment 1478
+
+where are you
+
+im an officer
+
+i shot a guy thinking it was my apartment
+
+
+im so fucked.
