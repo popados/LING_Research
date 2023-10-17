@@ -19,38 +19,95 @@ To me this is interesting because its a cross-section of Computer Science, Lingu
 
 Overall I want to see what is being done in the world of law to deal with cybercrime.
 
-Some of the questions I am asking myself:
+#### Questions I am asking myself
 
 - What is hacking? Or a hack?
-- What are damages done by cybercrime?
+- What are damages done by cybercrime?*
 - How is jargon used? Why must the wording be precise?
-- Why is cryptography important?
-- Perception of hackers? Media? Reality?
+- Why is cryptography important?*
+- Perception of hackers? Media? Reality? (Sideline but still there)
 - What words scream cybercrime?
 - Do ransomeware notes/emails exist? Do we analyze them the same as a regular ransome note?
 - How does the industry view cybercrime vs the public?
-- Are lack of laws and education the reason why crime is so prevelant online?
-- Is it more profitable to do cybercrime?
-- Pejorative terms?
-- Why do people commit these crimes? Do they happen all the time?
+- Are lack of laws and education the reason why crime is so prevelant online? (save for forensic linguistics)
+- Is it more profitable to do cybercrime?*
+- Why do people commit these crimes? Do they happen all the time?*
 - Is there a name for people who fall for cybercrime attacks?
+  - Pejorative terms?
 - Are there "missions" for hacker groups? Malicious vs white hat groups?
+  - maybe look at hate groups too for discrimitary patterns
+- How someone outside of tech can show me new perspectives?
+- Why is it ethical, what words.
 
+*shelved
 
 This is a list I was thinking thorugh over the weekend. Some stuff I'm wondering is specific to the idea that "cybercrime" is the term we should use to describe damages performed on the internet.
 
-My thought process for this is give evidance for changing terms and bringing some of these terms to the legal world. Not sure where I should go from here. Just going to keep expanding this document with stuff.
+My thought process for this is give evidence for changing terms and bringing some of these terms to the legal world. Not sure where I should go from here. Just going to keep expanding this document with stuff.
+
+Looking to expand my todo list involving research.
+
+Lit Review. Find out what others have written.
+
+[Ling Stuff](https://guides.library.unt.edu/linguistics/getting-oriented)
+
+- Answer Questions
+- Lit Review
+  - articles
+    - see what people are writing - save links
+  - journals
+    - want to see what academics are doing
+  - 
+
+##### Linguistic Analysis
+
+- Pick 4 to 6 phrases within the context of cybercrime
+- Historical useage/etymology
+- Memes/gifs
+- Changes over time
+- Acronyms
+- Abbrevs
+- Semantics
+- Pragmatics
+- named after someone
+- word formation
+
+
+#### Terms/Lexicon
+
+- categorize
+
+- Black Hat
+- White Hat
+- Grey Hat(beard)
+- Ethical Hacker
+- Phishing
+- 
 
 #### Todo
 
 - Research methodology
+  
 - Survey methods
+  
 - Finding a description
+  
 - Creating a synopsis of the problem/idea.
-- 
+  
+- How to id crime by the language
 
+- Introduction
+  - Hook - dramatic and interesting
+    - Provactive question
+    - statistics
 
+- Lit Review
+  
+- Resources
 
+- Words/Phrases - robust
+
+- World Cloud!!
 
 ***
 
@@ -60,3 +117,14 @@ My thought process for this is give evidance for changing terms and bringing som
 
 ## Notes & References |
 
+- https://courses.lumenlearning.com/olemiss-writ250/chapter/developing-a-research-focus/
+
+
+
+> Title – Cybercrime: History and Terminology
+
+> Focus –  
+My research will attempt to answer questions concerning crime in the modern era, specifically cyberspace. By finding evidence dealing with cybercrime, we can attempt to shine a light on the types of terminology, history, and legal precedents that this type of crime will have.
+
+> Description –  
+Terminology, history, and legal precedents are the highlights of this proposal. I will answer questions about how, when, and why cyberspace must be looked at for research within linguistics. Some questions will be answered: How does the industry view this versus public opinion? Is it more profitable for the individual to do cybercrime? Are there “missions” for hacker groups? Aside from this, a historical view of the Internet and its activities will be provided.
