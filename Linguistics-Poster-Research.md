@@ -167,3 +167,10 @@ My research will attempt to answer questions concerning crime in the modern era,
 
 **Description** –  
 Terminology, history, and legal precedents are the highlights of this proposal. I will answer questions about how, when, and why cyberspace must be looked at for research within linguistics. Some questions will be answered: How does the industry view this versus public opinion? Is it more profitable for the individual to do cybercrime? Are there “missions” for hacker groups? Aside from this, a historical view of the Internet and its activities will be provided.
+
+
+[TurnitIn EULA](https://api.turnitin.com/api/lti/1p0/user/static_eula?lang=en_us)
+
+[Mellow Fellow ToS](https://mellowfellow.fun/policies/terms-of-service)
+
+[Mellow Fellow Privacy Policy](https://mellowfellow.fun/policies/privacy-policy)
