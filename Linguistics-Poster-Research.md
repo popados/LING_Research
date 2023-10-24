@@ -38,8 +38,11 @@ Describe and summarize points I want to make.
 
 Start answering the questions I have. Summarize articles.
 
+<<<<<<< HEAD
 Write a what and why introduction. Explain what and how this emerging subset of crime.
 
+=======
+>>>>>>> a76af3e7492110a8a88a44c4866e5c55da4fedf6
 
 
 
@@ -168,9 +171,40 @@ My research will attempt to answer questions concerning crime in the modern era,
 **Description** –  
 Terminology, history, and legal precedents are the highlights of this proposal. I will answer questions about how, when, and why cyberspace must be looked at for research within linguistics. Some questions will be answered: How does the industry view this versus public opinion? Is it more profitable for the individual to do cybercrime? Are there “missions” for hacker groups? Aside from this, a historical view of the Internet and its activities will be provided.
 
+<<<<<<< HEAD
 
 [TurnitIn EULA](https://api.turnitin.com/api/lti/1p0/user/static_eula?lang=en_us)
 
 [Mellow Fellow ToS](https://mellowfellow.fun/policies/terms-of-service)
 
 [Mellow Fellow Privacy Policy](https://mellowfellow.fun/policies/privacy-policy)
+=======
+transcribe
+
+ring
+
+ring
+
+911 this is carla
+
+officer 
+
+can i get emt
+
+im at. im at
+
+im at my apartment
+
+where are you
+
+im at apartment 1478
+
+where are you
+
+im an officer
+
+i shot a guy thinking it was my apartment
+
+
+im so fucked.
+>>>>>>> a76af3e7492110a8a88a44c4866e5c55da4fedf6
