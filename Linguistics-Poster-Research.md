@@ -38,11 +38,8 @@ Describe and summarize points I want to make.
 
 Start answering the questions I have. Summarize articles.
 
-<<<<<<< HEAD
 Write a what and why introduction. Explain what and how this emerging subset of crime.
 
-=======
->>>>>>> a76af3e7492110a8a88a44c4866e5c55da4fedf6
 
 
 
@@ -177,3 +174,6 @@ Terminology, history, and legal precedents are the highlights of this proposal. 
 [Mellow Fellow ToS](https://mellowfellow.fun/policies/terms-of-service)
 
 [Mellow Fellow Privacy Policy](https://mellowfellow.fun/policies/privacy-policy)
+
+
+IT is very frustrating to "read" the long documents required for internet services.
