@@ -61,6 +61,8 @@ Write a what and why introduction. Explain what and how this emerging subset of 
 - AI core values
 - 
 
+**Too broad of scope**
+
 - Why do people commit these crimes? Do they happen all the time?*
 - Is it more profitable to do cybercrime?*
 - Why is cryptography important?*
@@ -108,6 +110,7 @@ Lit Review. Find out what others have written.
 
 
 
+
 #### Terms/Lexicon
 
 - categorize
@@ -117,6 +120,10 @@ Lit Review. Find out what others have written.
 - Grey Hat(beard)
 - Ethical Hacker
 - Phishing
+- Backtrace
+- Scope
+- User
+- Encapsule
 - 
 
 #### Todo
@@ -146,7 +153,14 @@ Lit Review. Find out what others have written.
 
 - Commentary & Analysis
 
+- Lots of drama right now in the "twitter" inforsecurity area
+
+- use of the word right and yeah to indicate they are still listening but not attentive
+
+- Linguistic profiling of ransom notes
+
 - 
+
 
 - 
 
@@ -177,3 +191,8 @@ Terminology, history, and legal precedents are the highlights of this proposal. 
 
 
 IT is very frustrating to "read" the long documents required for internet services.
+
+Each section acts as its own libability warning.
+
+RefWorks - tool to help do annotated bibliography
+
