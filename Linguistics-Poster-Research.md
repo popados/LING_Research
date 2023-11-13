@@ -40,6 +40,25 @@ Start answering the questions I have. Summarize articles.
 
 Write a what and why introduction. Explain what and how this emerging subset of crime.
 
+### Day number something | 11/9/2023 - Thursday
+
+Changing the topic from all cyber/technology topics to specifically the cybercrimes and what signs there are to detect potential problems.
+
+How do I illicit???
+
+- Ask questions
+
+- Get details
+
+- Listen for common phrases
+
+- Recording/Transcribing
+
+-  This used as a noun and direct verb
+
+- Stand up and other presentation based words used daily in scrum meetings.
+
+
 
 
 
@@ -59,7 +78,7 @@ Write a what and why introduction. Explain what and how this emerging subset of 
 - Why is it ethical, what words.
 - Malicious Intent
 - AI core values
-- 
+- How devs use yes as a way to illicit more information rather than affrimatives
 
 **Too broad of scope**
 
@@ -195,4 +214,5 @@ IT is very frustrating to "read" the long documents required for internet servic
 Each section acts as its own libability warning.
 
 RefWorks - tool to help do annotated bibliography
+
 
