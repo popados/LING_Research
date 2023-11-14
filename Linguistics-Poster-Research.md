@@ -210,8 +210,6 @@ Each section acts as its own libability warning.
 
 RefWorks - tool to help do annotated bibliography
 
-<<<<<<< HEAD
-=======
 carry meaning
 
 
@@ -223,5 +221,4 @@ people using markers as flow such as this, then, else,
 does stuff
 
 discourse markers
->>>>>>> stash
 
