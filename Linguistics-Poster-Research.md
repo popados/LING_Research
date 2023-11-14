@@ -128,8 +128,6 @@ Lit Review. Find out what others have written.
 - commonality
 
 
-
-
 #### Terms/Lexicon
 
 - categorize
@@ -180,9 +178,6 @@ Lit Review. Find out what others have written.
 
 - 
 
-
-- 
-
 ***
 
 [Jump to Top](#top-of-doc)
@@ -215,4 +210,18 @@ Each section acts as its own libability warning.
 
 RefWorks - tool to help do annotated bibliography
 
+<<<<<<< HEAD
+=======
+carry meaning
+
+
+well actually so 
+
+people using markers as flow such as this, then, else, 
+
+
+does stuff
+
+discourse markers
+>>>>>>> stash
 
