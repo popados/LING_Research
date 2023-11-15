@@ -228,3 +228,7 @@ Gaming and Hacking terms
 Preentation Terms
 
 Spy or espionage terms
+
+
+
+>Some stuff that stood out to me is how the deposition was first presented. The use of phrases such as “is believed” and “more mg, more money” made me think of how easy it is to fall into money schemes when the product sells itself and creates its own market. Should I include my own experiences? The layer behind the direct crisis was another crisis of similar magnitude that was almost the same but affected specifically black families. Crack sold itself, homie. OxyContin was made for a “6 to 10” range of pain. It basically sells itself. 
