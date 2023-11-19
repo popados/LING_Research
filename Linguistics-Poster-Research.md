@@ -232,3 +232,10 @@ Spy or espionage terms
 
 
 >Some stuff that stood out to me is how the deposition was first presented. The use of phrases such as “is believed” and “more mg, more money” made me think of how easy it is to fall into money schemes when the product sells itself and creates its own market. Should I include my own experiences? The layer behind the direct crisis was another crisis of similar magnitude that was almost the same but affected specifically black families. Crack sold itself, homie. OxyContin was made for a “6 to 10” range of pain. It basically sells itself. 
+
+
+watching the show "painkiller" has many parts that show how linguistics and specifically forensic linguistics is used everyday and more importantly in deposition rooms.
+
+the story itself is elaborate and dramatized. However the parts of the show that showed how language is important are excellent examples to explore a linguistic toolkit.
+
+Starts with deposition of edie, who is an investigator for the AG. She is reluctant because the people "responsible" are "untouchable". Opinion is that while the people responsible were liable for the original creation of the drug. Many of the symptoms described are just as much facets of society as a whole and how prone to addiction people are.
