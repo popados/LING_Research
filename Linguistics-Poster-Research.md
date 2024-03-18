@@ -121,6 +121,7 @@ Electon year might be important to how data is transfered in today's world.
   - recommendations
 - Definitions of words used in cyberspace
 
+come up with random titles to focus in on topic
 
 3 stages 
 
@@ -283,6 +284,8 @@ a collalocation
 
 
 are they modified by adjectives
+
+mass nouns - > how much > depth > 
 
 - Black Hat
 - White Hat
