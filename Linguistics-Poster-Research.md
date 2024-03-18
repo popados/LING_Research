@@ -100,9 +100,107 @@ This might need a new name because of SOLID principles. It gets confusing for ne
 
 (SOLID Protocol)[https://solidproject.org/TR/protocol]
 
+
 ***
 
+### 007 | 3/18/2024 - Monday
+
+Bringing this document to my teacher to get a new idea of where I want to go with my final paper.
+
+Go one step down and then link back to the surface representation.
+
+
+
+How technology relates to Language and Society?
+
+Electon year might be important to how data is transfered in today's world.
+
+- Through data
+  - transfer
+  - uptake
+  - recommendations
+- Definitions of words used in cyberspace
+
+
+3 stages 
+
+observation
+organizational
+explanation
+
+
+data source :
+
+from communitites that are virtual
+
+
+- pop culture
+
+- gaming 
+
+- TV
+
+- Hacking (White, Black, Gray)
+
+
+morally ambigious as in they can "steal, lie, cheat" to get their way but refuse to cross certain "dangerous" lines.
+
+- robin hood
+
+- innovators
+
+- less "dark" crimes
+
+- Kevin Mitnick -> write a small 
+
+start limiting
+
+more of an abstraction with communities
+
+start tallying to find percentages of where i got the examples
+
+- community
+
+- TV
+
+- Cyberspace
+
+- pop culture
+
+- books
+
+- musics
+
+cover steps
+
+data gathering techniques
+
+
+where did i get everything from - unusual space
+
+reframe hacking
+
+-manifested
+
+-approcahing from new angle
+
+How to define terms and then cite stuff
+
+Serious of hacking
+
+***
+
+
 #### Questions
+
+- How are people using cybercrime? Differ from usages.
+
+- Snowden usage and how people view crime and heroic acts.]
+
+- Nature of gray hat hacking?
+  - Why and how?
+  - Whoe
+
 
 - What is hacking? Or a hack?
 - How is jargon used? Why must the wording be precise?
@@ -173,7 +271,18 @@ Lit Review. Find out what others have written.
 
 #### Terms/Lexicon
 
-- categorize
+- categorize and see where i got them from
+
+mini dictionary 
+
+lexicl entries > protection - disclosure - innovation - appropriation of data
+
+
+modifiers that commonly occur
+a collalocation
+
+
+are they modified by adjectives
 
 - Black Hat
 - White Hat
@@ -219,7 +328,7 @@ Lit Review. Find out what others have written.
 - level with - ding - to level up a speech skill?
 - piece meal
 - zug zug work work
-- death note/\/\/\/\/\/\/\/\/\/
+- death note /\/\/\/\/\/\/\/\/\/
 - VRMMO
 - mind if i roll greed/need
 - freljord
@@ -232,6 +341,8 @@ Lit Review. Find out what others have written.
 - boosted
 - min/max
 - Newbie/Noob
+- silos - way that it distributes 
+- monitor
 
 #### World Order? LMAO??!??!?!?!?
 
