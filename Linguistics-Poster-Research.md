@@ -13,7 +13,7 @@
 
 ### Day 01 | 10/7/2023 - Saturday
 
-I am writing out questi ons and ideas for my poster topic. The working title will be ***Cybercrime: History and Terminology.***
+I am writing out questions and ideas for my poster topic. The working title will be ***Cybercrime: History and Terminology.***
 
 To me this is interesting because its a cross-section of Computer Science, Linguistics, and Criminology/Criminal Justice.
 
@@ -187,7 +187,20 @@ reframe hacking
 
 How to define terms and then cite stuff
 
-Serious of hacking
+Seriousness of hacking
+
+
+***
+
+### 008 | 3/19/2024 - Tuesday
+
+Brainstorm some working titles for my final paper. This can describe the relation between the words I want to discuss and how they are understood in society.
+
+***
+
+### 009 | 3/20/2024 - Wednesday
+
+
 
 ***
 
