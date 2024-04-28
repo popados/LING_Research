@@ -201,9 +201,22 @@ Brainstorm some working titles for my final paper. This can describe the relatio
 ### 009 | 3/20/2024 - Wednesday
 
 
+changing SVO to action participle subject
 
+instead of subject verb object
+
+dont mind the gap
 ***
 
+### 010 | 3/22/2024 - Friday
+
+Freezing is being broken more and more. Such as bottom to top, veritas aquitas; et nometre padre. is backwards from the saaying in the movie "The Boondock Saints." Forwards and backwards; back and forth. Both are opposite freezing models.
+
+```
+Markers for the physical realm are intricate. Linguistic features are based on how the language is presented and changes in complexity depending on the discourse. Features to look for in the linguistic analysis of landscapes include placement, timing, touch, smell, and hearing. Other indicators of speech include body language, speech tone, and pitch. From there, socio-political messages are associated with those senses. The semantic nature of the language can be inferred by how the message is received. As well as sensory and speech-specific attributes, there are semiotic features. 
+```
+
+***
 
 #### Questions
 
@@ -281,6 +294,19 @@ Lit Review. Find out what others have written.
 - variation and dialect
 - authorship
 - commonality
+- discourse markers
+  - transition words
+  - meanings behind stuff can be shifted
+  
+whether Grammarly suggestions are now AI or not.Is changing the transition words a good idea with my grammar assistant
+
+does the constitute a plagiarized paper? 
+
+The discourse markers are better than the ones I would use.
+
+My language is dull compared to what is offered through grammarly suggestions.
+
+What do I do.
 
 
 #### Terms/Lexicon
@@ -359,6 +385,9 @@ mass nouns - > how much > depth >
 - Newbie/Noob
 - silos - way that it distributes 
 - monitor
+- Gooner
+- 
+
 
 #### World Order? LMAO??!??!?!?!?
 
@@ -401,6 +430,25 @@ AI HAS TAKEN THE MATCH
 - Linguistic profiling of ransom notes
 
 - 
+
+***
+
+***
+
+```
+
+Here are some suggestions:
+- How are online landscapes different from physical landscapes?
+- How are online landscapes different from one another?
+- Where would you place online landscapes in the ‘Top down’/‘bottom up’ distinction?
+- What are some of the signs used in these spaces? What is their function?
+- Consider how features of this landscape - e.g. acronyms, emojis, etc. - change in meaning as
+they are used repeatedly.
+- Is there a relationship between one’s online identity and the basic feature of anonymity in these
+spaces?
+
+```
+
 
 ***
 
