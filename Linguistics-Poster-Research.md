@@ -210,6 +210,9 @@ dont mind the gap
 
 ### 010 | 3/22/2024 - Friday
 
+
+
+
 Freezing is being broken more and more. Such as bottom to top, veritas aquitas; et nometre padre. is backwards from the saaying in the movie "The Boondock Saints." Forwards and backwards; back and forth. Both are opposite freezing models.
 
 ```
@@ -389,6 +392,87 @@ mass nouns - > how much > depth >
 - 
 
 
+TikTok  Comments
+
+Social Media Comments
+- Slay
+- FIRE
+- BADDIE
+- W aura
+- insane
+- fly
+- icon
+- a model
+- main character
+- no crumbs
+- rizz
+- hate comments
+  - L
+  - nerd
+  - lose aura
+  - not going
+  - bad gg no re
+
+
+Gaming
+- NPC
+- W / L
+- CHAT!?
+- Alpha
+- Sigma
+- Feeding
+- camping
+- carry
+- lag
+- boosted
+- throwing
+- AFK
+- GLHF no; rush 10
+- gg no re
+- military/utilitarian 
+- POGGERS
+- NOOB
+- "THE GAME" TIKTOK
+- simulated experience
+- stop turtling
+- dont camp me a-hole
+- this homework is op -> OP is overpowered from World of Warcraft 
+- NERF or BUFF
+- I can't believe how much you're feeding - throwing - money/time/experience
+- alot of raz maztaz
+- level up
+- GG
+- PVP/PVE
+- headsup display - HUD
+- XP
+- RPG
+- ARPG
+- MMO
+- UI
+- AoE
+- BRB
+- OMW
+- OTP
+- DING
+- final boss
+ 
+
+
+Texting
+- lol
+- lmao
+- rofl
+- ttyl
+- ssdd
+- 
+
+Compliments
+
+Social Media Phrases
+
+
+
+
 #### World Order? LMAO??!??!?!?!?
 
 What if what if.. resistance is real.
@@ -451,6 +535,24 @@ spaces?
 
 
 ***
+
+
+### 011 | 8/27/2024 - Tuesday
+
+Gamer lingo
+- frequency
+- old
+- new
+- cooked level of wording
+
+
+
+
+Warm up
+
+Data
+
+
 
 ## Notes & References |
 
@@ -708,3 +810,26 @@ like i learned the "cool" stuff from yall
 cause apparently you all knew how to be friends with girls
 
 but i didnt know how to bring that up
+
+
+they like festivals
+
+nihilist
+
+prep
+
+basketball
+
+girls
+
+guys
+
+gamers
+
+trends of words - Plateau - upwards - downwards
+
+social media
+- ratio'd
+- tweeted
+- the algo
+- 
